@@ -1,0 +1,27 @@
+# Bar
+
+colors {
+
+        background  #000000
+        statusline  #FF0066
+        separator   #FF0066
+ 
+        focused_workspace   #FF0066  #FF0066  #000000
+        active_workspace    #333333  #5f676a  #000000
+        inactive_workspace  #000000  #000000  #FF0066
+        urgent_workspace    #2f343a  #900000  #FFFFFF
+        binding_mode        #2f343a  #900000  #FFFFFF
+    }
+}
+
+# Window
+
+client.focused_inactive #0d1010 #212121 #d9d9d9 #0d1010 #063340                                                                            
+client.unfocused        #FF0066 #212121 #FF0066 #424242 #000000                                                                            
+client.focused          #000000 #FF0066 #000000 #d9d9d9 #FF0066
+
+# Board Colors
+                                                                    
+client.focused_inactive #0d1010 #212121 #d9d9d9 #0d1010 #063340                                                                             
+client.unfocused        #FF0066 #212121 #FF0066 #424242 #000000                                                                             
+client.focused          #000000 #FF0066 #000000 #d9d9d9 #FF0066
